@@ -30,7 +30,7 @@
             "max": 1,
             "step": 0.001
         },
-        "default": 1.0
+        "default": 0.2
     },
     "judge_provider_id": {
         "description": "判断情感用的LLM提供商",
