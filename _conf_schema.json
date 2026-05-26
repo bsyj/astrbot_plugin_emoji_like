@@ -23,7 +23,7 @@
     },
     "emoji_reaction_follow_prob": {
         "description": "跟随别人贴表情的概率",
-        "hint": "监听到群友贴表情事件时，bot跟随贴同款表情的概率。设为0即关闭，独立于“表情跟随概率”",
+        "hint": "监听到群友贴表情事件时，bot跟随贴同款表情的概率。设为0即关闭",
         "type": "float",
         "slider": {
             "min": 0,
